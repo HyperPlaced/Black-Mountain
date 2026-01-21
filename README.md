@@ -10,6 +10,3 @@ This project explores LiDAR-derived elevation and surface features on Black Moun
 using CesiumJS and a Potree point cloud viewer.
 
 
-# Black-Mountain
-Black mOUNTAIN
-[look at this point cloud](potree)
