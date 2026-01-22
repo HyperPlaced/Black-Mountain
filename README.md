@@ -1,9 +1,9 @@
 # Black Mountain, Kentucky — LiDAR Visualization
 
-🔗 **Interactive 3D Project Page (Cesium):**
+ **Interactive 3D Project Page (Cesium):**
 https://hyperplaced.github.io/Black-Mountain/
 
-🔗 **Point Cloud Viewer (Potree):**
+ **Point Cloud Viewer (Potree):**
 https://hyperplaced.github.io/Black-Mountain/potree/
 
 This project explores LiDAR-derived elevation and surface features on Black Mountain, KY
